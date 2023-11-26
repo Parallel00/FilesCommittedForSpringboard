@@ -1,0 +1,28 @@
+﻿.completed {
+    text-decoration: line-through;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+button{
+    position: initial;
+}
+
+#container{
+    display:flex;
+    gap:10px;
+    align-items: center;
+}
+
+span{
+    color: red;
+    margin-left: 20px;
+    text-decoration: underline;
+    cursor: pointer;
+}
