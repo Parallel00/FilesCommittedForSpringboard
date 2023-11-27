@@ -1,7 +1,6 @@
 // Timer Practice
 // Ethan Bailey-Mcneill
 // November 10, 2023
-// Fixed on November 24, 2023
 
 function countDown(number) {
     let input = setInterval(function () {
