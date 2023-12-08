@@ -13,7 +13,7 @@ function onlyEventValues(array) {
             newArray.push(val);
         }
     });
-    return newArray
+    return newArray;
 }
 
 function showFirstAndLast(array) {
