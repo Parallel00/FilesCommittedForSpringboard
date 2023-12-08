@@ -3,7 +3,7 @@ function doubleValues(array) {
     array.forEach(function (val) {
         newArray.push(val * 2);
     });
-    return newArray
+    return newArray;
 }
 
 function onlyEventValues(array) {
